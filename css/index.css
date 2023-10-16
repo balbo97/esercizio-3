@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.image-logo{
+    background-image: url(../img/pattern.png);
+    background-color: rgb(0, 153, 255);
+    background-size: contain;
+    background-position: left;
+    padding-top: 50px;
+}
+.logo{
+    height: 50px;
+}
