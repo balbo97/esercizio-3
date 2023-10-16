@@ -1,9 +1,12 @@
 *{
     padding: 0;
-    margin: 0;
+    
     box-sizing: border-box;
 }
 
+header{
+    margin: 0%;
+}
 
 .image-logo{
     background-image: url(../img/pattern.png);
@@ -11,7 +14,24 @@
     background-size: contain;
     background-position: left;
     padding-top: 50px;
+    
 }
 .logo{
     height: 50px;
+}
+
+.title{
+    padding-right: 15%;
+}
+.TheBooleaner{
+    color: rgb(0, 195, 255);
+}
+.piccolo{
+    font-size: 14px;
+}
+.evidenziato{
+    background-color: yellow;
+}
+.spazio{
+    padding-top: 20px;
 }
